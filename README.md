@@ -1,7 +1,7 @@
 ***
 # なるっち公式YouTubeチャンネル
-＞＞[こちらから公式YouTubeチャンネルへ行けます！](https://www.youtube.com/@NarucchiMinecraft)
-<img width="1561" height="447" alt="YouTubeBurner (1)" src="https://github.com/user-attachments/assets/f7c9099d-34d3-4d61-ae97-f4bebece283d" />
+＞＞[こちらから公式YouTubeチャンネルへ行けます！](https://www.youtube.com/@NarucchiMinecraft)＜＜
+<img width="1561" height="447" alt="YouTubeBurner (1)" src="https://github.com/user-attachments/assets/f7c9099d-34d3-4d61-ae97-f4bebece283d" />(https://www.youtube.com/@NarucchiMinecraft)
 ***
 #  💬なるっち公式Discordサーバー💬
 ＞＞[こちらから公式Discrordへ行けます！](https://discord.gg/)＜＜
