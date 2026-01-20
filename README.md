@@ -1,7 +1,7 @@
 ***
 # なるっち公式YouTubeチャンネル
 ＞＞[こちらから公式YouTubeチャンネルへ行けます！](https://www.youtube.com/@NarucchiMinecraft)＜＜
-<img width="1559" height="434" alt="YouTubeBurner" src="https://github.com/user-attachments/assets/9503da38-6e80-4600-9d5e-a341f27a16ae" />
+[![ごて鯖Discord](YouTubeBarner.png)](https://discord.gg/7SnjrqKQeS)
 ***
 #  💬なるっち公式Discordサーバー💬
 ＞＞[こちらから公式Discrordへ行けます！](https://discord.gg/)＜＜
@@ -18,3 +18,5 @@
 ***
 # 🟣なるっち公式Realmサーバー  
 現在は残念ながら公開していません！予告無しに公開しているかもしれません！常にDiscordをみて確認しておいて下さい！
+***
+# 
