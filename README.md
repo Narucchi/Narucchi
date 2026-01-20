@@ -1,7 +1,7 @@
 ***
 # なるっち公式YouTubeチャンネル
 ＞＞[こちらから公式YouTubeチャンネルへ行けます！](https://www.youtube.com/@NarucchiMinecraft)＜＜
-[![ごて鯖Discord](YouTubeBarner.png)](https://discord.gg/7SnjrqKQeS)
+<img width="1024" height="1024" alt="Copilot_20260120_145258" src="https://github.com/user-attachments/assets/2d53479c-496a-41fd-91ef-3517f76a902b" />
 ***
 #  💬なるっち公式Discordサーバー💬
 ＞＞[こちらから公式Discrordへ行けます！](https://discord.gg/)＜＜
